@@ -45,5 +45,5 @@ jobs:
 3) Copy the JSON File from Step 1 to the Settings Tab > Secrets > Actions > New Repository Secret > Enter the Name "AZURE_CREDENTIALS" and paste the JSON file and Save.
 4) Result: Get the resut from Actions Tab workflow even the workflow is error, you will get the csv file (ScanReport_xxxxxxxxx.csv). 
 
-** Reference **
+## Reference
 1) https://github.com/azure/policy-compliance-scan
